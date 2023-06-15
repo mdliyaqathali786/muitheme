@@ -1,1 +1,2 @@
-# CUSTOM THEME
+--> npm i
+--> npm start
